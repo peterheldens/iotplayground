@@ -1,5 +1,5 @@
 # IoT Playground
-Some handson pointers to learn Internet of Things
+Some pointers to play & learn the Internet of Things
 
 # Find your IoT device
 
@@ -36,6 +36,9 @@ https://catalog.azureiotsuite.com/ "Microsoft website")
 # Find your Demo projects
 
 ## IoT Develop Kits 
+
+![AZ3166](/assets/images/AZ3166.png)
+
 [Projects Catalog for MXChip IoT Developer Kit](https://microsoft.github.io/azure-iot-developer-kit/docs/projects/)
 
 ![iot hub](/assets/images/projects-iothub-th.jpg)
