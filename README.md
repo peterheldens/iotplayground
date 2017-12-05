@@ -3,9 +3,6 @@ Some handson pointers to learn Internet of Things
 
 # Find your IoT device
 
-[Certified IoT devices and starter kits tailored to your needs](
-https://catalog.azureiotsuite.com/ "Microsoft website")
-
 Azure IoT Starter Kits:
 * ARK1123-H
 * Meshlium
@@ -23,7 +20,8 @@ Azure IoT Starter Kits:
 * Adafruit Feather Huzzah
 * Adafruit Feather M0 Wifi
 
-
+[Complete list of Certified IoT devices and starter kits tailored to your needs](
+https://catalog.azureiotsuite.com/ "Microsoft website")
 
 # Find your Training
 
