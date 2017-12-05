@@ -3,8 +3,8 @@ Some handson pointers to learn Internet of Things
 
 # Find your IoT device
 
-Azure IoT Starter Kits:
-* ARK1123-H
+Selection of Azure IoT Starter Kits:
+* ARK1123-H 
 * Meshlium
 * MXChip IoT Devkit [Get started](https://catalog.azureiotsuite.com/details?title=MXChip-IoT-DevKit&source=home-page)
 * IoT Wi-Fi node based on STM32 NUCLEOL476RG
@@ -14,9 +14,9 @@ Azure IoT Starter Kits:
 * PMC-5231
 * WISE-5231
 * Spakfun ThingDev
-* Raspberry-Pi3
+* Raspberry-Pi3 [Get started](https://catalog.azureiotsuite.com/details?title=Raspberry_Pi3&source=home-page)
 * Intel NUC
-* Intel Edison
+* Intel Edison [Get started](https://catalog.azureiotsuite.com/details?title=Intel-Edison&source=home-page)
 * Adafruit Feather Huzzah
 * Adafruit Feather M0 Wifi
 
