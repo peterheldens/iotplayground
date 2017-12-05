@@ -20,7 +20,7 @@ Selection of Azure IoT Starter Kits:
 * Adafruit Feather Huzzah
 * Adafruit Feather M0 Wifi
 
-[Complete list of Certified IoT devices and starter kits tailored to your needs](
+[Full list of Certified IoT devices and starter kits](
 https://catalog.azureiotsuite.com/ "Microsoft website")
 
 # Find your Training
