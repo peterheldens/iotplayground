@@ -1,7 +1,8 @@
-# IoT Playgrund
+# IoT Playground
 Some handson pointers to learn Internet of Things
 
 #Find your IoT device
+
 [Certified IoT devices and starter kits tailored to your needs](
 https://catalog.azureiotsuite.com/ "Microsoft website")
 
@@ -25,7 +26,9 @@ Azure IoT Starter Kits:
 
 
 #Find your Training
+
 ##Microsoft Virtual Academy
+
 [Getting Started with the Internet of Things (IoT)](https://mva.microsoft.com/en-US/training-courses/getting-started-with-the-internet-of-things-iot-16170?l=VUaAyuRIC_6305846048 "MVA Course")
 
 [Building Blocks: Internet of Things (IoT)](https://mva.microsoft.com/en-US/training-courses/building-blocks-internet-of-things-iot-16062?l=uDv7NjlGC_7606218949 "MVA Course")
@@ -33,6 +36,7 @@ Azure IoT Starter Kits:
 [Introduction to Azure IoT](https://mva.microsoft.com/en-US/training-courses/introduction-to-azure-iot-17611?l=uxXUIs4rD_606218965 "MVA Course")
 
 #Find your Demo projects
+
 ##IoT Develop Kits 
 [Projects Catalog for MXChip IoT Developer Kit](https://microsoft.github.io/azure-iot-developer-kit/docs/projects/)
 
