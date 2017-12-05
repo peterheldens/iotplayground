@@ -40,11 +40,16 @@ Azure IoT Starter Kits:
 ## IoT Develop Kits 
 [Projects Catalog for MXChip IoT Developer Kit](https://microsoft.github.io/azure-iot-developer-kit/docs/projects/)
 
-![translator](/assets/images/projects-devkit-translator-th.jpg)
-![door monitorr](/assets/images/projects-door-monitor-th.jpg)
 ![iot hub](/assets/images/projects-iothub-th.jpg)
+
+![translator](/assets/images/projects-devkit-translator-th.jpg)
+
+![door monitor](/assets/images/projects-door-monitor-th.jpg)
+
 ![mqtt hello world](/assets/images/projects-mqtt-helloworld-th.jpg)
+
 ![remote monitoring](/assets/images/projects-remote-monitoring-th.jpg)
+
 ![sjake](/assets/images/sjake.jpg)
 
 
