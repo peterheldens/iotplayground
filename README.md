@@ -35,9 +35,11 @@ https://catalog.azureiotsuite.com/ "Microsoft website")
 
 # Find your Demo projects
 
-## IoT Develop Kits 
+## Azure IoT Hub GetStarted Tutorials
 
-![AZ3166](/assets/images/AZ3166.png)
+[Great starting tutorials for Azure IoT Hub](https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-get-started)
+
+## IoT Development Kits 
 
 [Projects Catalog for MXChip IoT Developer Kit](https://microsoft.github.io/azure-iot-developer-kit/docs/projects/)
 
@@ -58,6 +60,10 @@ https://catalog.azureiotsuite.com/ "Microsoft website")
 [Visual Studio Code](https://code.visualstudio.com/)
 
 [Makecode](https://makecode.com)
+
+# AZ3166 Topology
+
+![AZ3166](/assets/images/AZ3166.png)
 
 
 
