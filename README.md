@@ -50,7 +50,7 @@ Azure IoT Starter Kits:
 
 ![remote monitoring](/assets/images/projects-remote-monitoring-th.jpg)
 
-![sjake](/assets/images/sjake.jpg)
+![shake](/assets/images/projects-shake-shake-th.jpg)
 
 
 # Find your Tools
