@@ -2,7 +2,7 @@
 Personal pointers to make cool IoT projects
 
 ```
-Note: First draft - currently learning GitHub ;-)
+Note: My first draft - learning GitHub > Markdown :rocket:
 ```
 
 # Find your IoT device
