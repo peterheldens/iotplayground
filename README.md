@@ -72,6 +72,10 @@ https://catalog.azureiotsuite.com/ "Microsoft website")
 https://www.hackster.io/windowsiot
 
 ## Windows 10 IoT Core
+
+### Get started with Windows 10 IoT Core
+Bring your Internet of Things to life with the power of Windows 10 IoT Core. If you're new to Windows 10 IoT Core, we'll help you [get started](https://developer.microsoft.com/en-us/windows/iot/GetStarted). If you're looking to bring a device to market, we'll show you how to commercialize your device. Build a prototype - Learn how to set up your device, write your first app, connect to Azure, and more.
+
 The operating system built for your Internet of Things
 http://windowsondevices.com
 
