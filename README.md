@@ -4,21 +4,26 @@ Some pointers to play & learn the Internet of Things
 # Find your IoT device
 
 Selection of Azure IoT Starter Kits:
+
+* MXChip IoT Devkit [Get started](https://catalog.azureiotsuite.com/details?title=MXChip-IoT-DevKit&source=home-page)
+* Raspberry-Pi3 [Get started](https://catalog.azureiotsuite.com/details?title=Raspberry_Pi3&source=home-page)
+* Intel Edison [Get started](https://catalog.azureiotsuite.com/details?title=Intel-Edison&source=home-page)
+
+
+<!---
 * ARK1123-H 
 * Meshlium
-* MXChip IoT Devkit [Get started](https://catalog.azureiotsuite.com/details?title=MXChip-IoT-DevKit&source=home-page)
-* IoT Wi-Fi node based on STM32 NUCLEOL476RG
 * Amplified-FATBOX-G3
 * M5Stack IoT Kit
+* IoT Wi-Fi node based on STM32 NUCLEOL476RG
 * CPS200
 * PMC-5231
 * WISE-5231
 * Spakfun ThingDev
-* Raspberry-Pi3 [Get started](https://catalog.azureiotsuite.com/details?title=Raspberry_Pi3&source=home-page)
 * Intel NUC
-* Intel Edison [Get started](https://catalog.azureiotsuite.com/details?title=Intel-Edison&source=home-page)
 * Adafruit Feather Huzzah
 * Adafruit Feather M0 Wifi
+-->
 
 [Full list of Certified IoT devices and starter kits](
 https://catalog.azureiotsuite.com/ "Microsoft website")
@@ -45,6 +50,7 @@ https://catalog.azureiotsuite.com/ "Microsoft website")
 
 ![iot hub](/assets/images/projects-iothub-th.jpg)
 
+<!---
 ![translator](/assets/images/projects-devkit-translator-th.jpg)
 
 ![door monitor](/assets/images/projects-door-monitor-th.jpg)
@@ -54,6 +60,7 @@ https://catalog.azureiotsuite.com/ "Microsoft website")
 ![remote monitoring](/assets/images/projects-remote-monitoring-th.jpg)
 
 ![shake](/assets/images/projects-shake-shake-th.jpg)
+-->
 
 
 # Find your Tools
