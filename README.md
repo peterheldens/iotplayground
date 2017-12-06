@@ -30,7 +30,7 @@ https://catalog.azureiotsuite.com/ "Microsoft website")
 
 # Find your Training
 
-### IoT Training sources
+### IoT Training
 
 [Getting Started with the Internet of Things (IoT)](https://mva.microsoft.com/en-US/training-courses/getting-started-with-the-internet-of-things-iot-16170?l=VUaAyuRIC_6305846048 "MVA Course")
 
@@ -38,7 +38,7 @@ https://catalog.azureiotsuite.com/ "Microsoft website")
 
 [Introduction to Azure IoT](https://mva.microsoft.com/en-US/training-courses/introduction-to-azure-iot-17611?l=uxXUIs4rD_606218965 "MVA Course")
 
-### General Azure Training
+### Azure Training
 [Azure Essentials Training](https://www.microsoft.com/en-us/azureessentials) 
 
 
@@ -68,39 +68,62 @@ https://catalog.azureiotsuite.com/ "Microsoft website")
 
 ## Discover cool maker projects
 
-# Hackster
+## Hackster
 https://www.hackster.io/windowsiot
 
-# Windows 10 IoT Core
+## Windows 10 IoT Core
 The operating system built for your Internet of Things
 http://windowsondevices.com
 
 What’s New for Windows 10 IoT Core
 https://developer.microsoft.com/en-us/windows/iot/docs/whatsnew
 
-# Microsoft IoT & AI Insider Labs
+## Microsoft IoT & AI Insider Labs
 Develop your IoT or AI project with help from Microsoft
 https://www.microsoftiotinsiderlabs.com/
 
-# Build a prototype
+## Build a prototype
 https://developer.microsoft.com/en-us/windows/iot/getstarted/prototype/selectdevice
 
-# Find your IoT devices and starter kits]
+## Find your IoT devices and starter kits]
 https://catalog.azureiotsuite.com/
 
-# MXChip IoT DevKit Preview
+## MXChip IoT DevKit Preview
 An all-in-one IoT kit built for the cloud
 https://microsoft.github.io/azure-iot-developer-kit/
 
-# Azure IoT Hub get started tutorials
+## Azure IoT Hub get started tutorials
 https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-get-started
 
-# Azure IoT Learning manual
+## Azure IoT Learning manual
 https://opbuildstorageprod.blob.core.windows.net/output-pdf-files/en-us/Azure.azure-documents/live/iot-hub.pdf
 
 # Find your Tools
 [Visual Studio Code](https://code.visualstudio.com/)
 
+# iothub-explorer
+
+A CLI tool to manage device identities in your IoT hub registry, send and receive messages and files from your devices, and monitor your IoT hub operations.
+
+**iothub-explorer** also lets you simulate a device connected to your IoT hub.
+
+[![npm version](https://badge.fury.io/js/iothub-explorer.svg)](https://badge.fury.io/js/iothub-explorer)
+
+<a name="install"/>
+
+## Installing iothub-explorer
+
+> Note: This tool requires Node.js version 4.x or higher for all features to work.
+
+To install the latest version of the **iothub-explorer** tool, run the following command in your command-line environment:
+
+```shell
+npm install -g iothub-explorer
+```
+
+Note: This tool requires Node.js version 4.x or higher for all features to work.
+To install the latest version of the iothub-explorer tool, run the following command in your command-line environment:
+'''npm install -g iothub-explorer'''
 
 [Makecode](https://makecode.com)
 
