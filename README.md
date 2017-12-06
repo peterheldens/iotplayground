@@ -82,24 +82,24 @@ http://windowsondevices.com
 What’s New for Windows 10 IoT Core
 https://developer.microsoft.com/en-us/windows/iot/docs/whatsnew
 
-## Microsoft IoT & AI Insider Labs
+#### Microsoft IoT & AI Insider Labs
 Develop your IoT or AI project with help from Microsoft
 https://www.microsoftiotinsiderlabs.com/
 
-## Build a prototype
+#### Build a prototype
 https://developer.microsoft.com/en-us/windows/iot/getstarted/prototype/selectdevice
 
-## Find your IoT devices and starter kits]
+#### Find your IoT devices and starter kits]
 https://catalog.azureiotsuite.com/
 
-## MXChip IoT DevKit Preview
+#### MXChip IoT DevKit Preview
 An all-in-one IoT kit built for the cloud
 https://microsoft.github.io/azure-iot-developer-kit/
 
-## Azure IoT Hub get started tutorials
+#### Azure IoT Hub get started tutorials
 https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-get-started
 
-## Azure IoT Learning manual
+#### Azure IoT Learning manual
 https://opbuildstorageprod.blob.core.windows.net/output-pdf-files/en-us/Azure.azure-documents/live/iot-hub.pdf
 
 # Find your Tools
