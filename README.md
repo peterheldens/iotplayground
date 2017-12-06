@@ -99,9 +99,24 @@ https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-get-started
 https://opbuildstorageprod.blob.core.windows.net/output-pdf-files/en-us/Azure.azure-documents/live/iot-hub.pdf
 
 # Find your Tools
-[Visual Studio Code](https://code.visualstudio.com/)
+## Visual Studio Code - Open Source
 
-# iothub-explorer
+[![Build Status](https://travis-ci.org/Microsoft/vscode.svg?branch=master)](https://travis-ci.org/Microsoft/vscode)
+[![Build Status](https://ci.appveyor.com/api/projects/status/vuhlhg80tj3e2a0l/branch/master?svg=true)](https://ci.appveyor.com/project/VSCode/vscode)
+[![Coverage Status](https://img.shields.io/coveralls/Microsoft/vscode/master.svg)](https://coveralls.io/github/Microsoft/vscode?branch=master)
+[![Gitter](https://img.shields.io/badge/chat-on%20gitter-blue.svg)](https://gitter.im/Microsoft/vscode)
+
+[VS Code](https://code.visualstudio.com) is a new type of tool that combines the simplicity of
+a code editor with what developers need for their core edit-build-debug cycle. Code
+provides comprehensive editing and debugging support, an extensibility model, and lightweight integration with existing tools.
+
+VS Code is updated monthly with new features and bug fixes. You can download it for Windows, macOS, and Linux on [VS Code's website](https://code.visualstudio.com/Download). To get the latest releases every day, you can install the [Insiders version of VS Code](https://code.visualstudio.com/insiders). This builds from the master branch and is updated at least daily.
+
+<p align="center">
+  <img alt="VS Code in action" src="https://cloud.githubusercontent.com/assets/11839736/16642200/6624dde0-43bd-11e6-8595-c81885ba0dc2.png">
+</p>
+
+## iothub-explorer
 
 A CLI tool to manage device identities in your IoT hub registry, send and receive messages and files from your devices, and monitor your IoT hub operations.
 
@@ -111,7 +126,7 @@ A CLI tool to manage device identities in your IoT hub registry, send and receiv
 
 <a name="install"/>
 
-## Installing iothub-explorer
+### Installing iothub-explorer
 
 > Note: This tool requires Node.js version 4.x or higher for all features to work.
 
