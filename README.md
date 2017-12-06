@@ -1,8 +1,8 @@
-# IoT Playground
+# IoT Playground :rocket:
 Personal pointers to make cool IoT projects
 
 ```
-Note: My first draft - learning GitHub > Markdown :rocket:
+Note: My first draft - learning GitHub > Markdown 
 ```
 
 # Find your IoT device
