@@ -83,11 +83,11 @@ What’s New for Windows 10 IoT Core
 https://developer.microsoft.com/en-us/windows/iot/docs/whatsnew
 
 #### Microsoft IoT & AI Insider Labs
-Develop your IoT or AI project with help from Microsoft
-https://www.microsoftiotinsiderlabs.com/
+Develop your IoT or AI project with help from [Microsoft IoT Insiders Labs](https://www.microsoftiotinsiderlabs.com/)
 
 #### Build a prototype
-https://developer.microsoft.com/en-us/windows/iot/getstarted/prototype/selectdevice
+The first step in prototyping a device (or prototyping just for fun) is to select the right developer board. While Windows 10 IoT Core is designed to work on thousands of hardware configurations, [here](https://developer.microsoft.com/en-us/windows/iot/getstarted/prototype/selectdevice) you'll find a selection of boards and developer kits to choose from when prototyping. 
+
 
 #### Find your IoT devices and starter kits]
 https://catalog.azureiotsuite.com/
