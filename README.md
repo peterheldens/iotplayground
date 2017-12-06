@@ -89,8 +89,9 @@ Develop your IoT or AI project with help from [Microsoft IoT Insiders Labs](http
 The first step in prototyping a device (or prototyping just for fun) is to select the right developer board. While Windows 10 IoT Core is designed to work on thousands of hardware configurations, [here](https://developer.microsoft.com/en-us/windows/iot/getstarted/prototype/selectdevice) you'll find a selection of boards and developer kits to choose from when prototyping. 
 
 
-#### Find your IoT devices and starter kits]
-https://catalog.azureiotsuite.com/
+#### Find your IoT devices and starter kits
+[Full list of Certified IoT devices and starter kits](
+https://catalog.azureiotsuite.com/ "Microsoft website")
 
 #### MXChip IoT DevKit Preview
 An all-in-one IoT kit built for the cloud
