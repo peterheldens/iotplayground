@@ -30,7 +30,7 @@ https://catalog.azureiotsuite.com/ "Microsoft website")
 
 # Find your Training
 
-## IoT Training sources
+### IoT Training sources
 
 [Getting Started with the Internet of Things (IoT)](https://mva.microsoft.com/en-US/training-courses/getting-started-with-the-internet-of-things-iot-16170?l=VUaAyuRIC_6305846048 "MVA Course")
 
@@ -38,7 +38,7 @@ https://catalog.azureiotsuite.com/ "Microsoft website")
 
 [Introduction to Azure IoT](https://mva.microsoft.com/en-US/training-courses/introduction-to-azure-iot-17611?l=uxXUIs4rD_606218965 "MVA Course")
 
-## General Azure Training
+### General Azure Training
 [Azure Essentials Training](https://www.microsoft.com/en-us/azureessentials) 
 
 
