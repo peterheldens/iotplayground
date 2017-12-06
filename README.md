@@ -1,5 +1,5 @@
 # IoT Playground
-Some pointers to play & learn the Internet of Things
+Personal pointers to make cool IoT projects
 
 # Find your IoT device
 
