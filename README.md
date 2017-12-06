@@ -1,6 +1,10 @@
 # IoT Playground
 Personal pointers to make cool IoT projects
 
+```
+Note: First draft - currently learning GitHub ;-)
+```
+
 # Find your IoT device
 
 Selection of Azure IoT Starter Kits:
