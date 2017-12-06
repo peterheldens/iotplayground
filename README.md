@@ -30,13 +30,17 @@ https://catalog.azureiotsuite.com/ "Microsoft website")
 
 # Find your Training
 
-## Microsoft Virtual Academy
+## IoT Training sources
 
 [Getting Started with the Internet of Things (IoT)](https://mva.microsoft.com/en-US/training-courses/getting-started-with-the-internet-of-things-iot-16170?l=VUaAyuRIC_6305846048 "MVA Course")
 
 [Building Blocks: Internet of Things (IoT)](https://mva.microsoft.com/en-US/training-courses/building-blocks-internet-of-things-iot-16062?l=uDv7NjlGC_7606218949 "MVA Course")
 
 [Introduction to Azure IoT](https://mva.microsoft.com/en-US/training-courses/introduction-to-azure-iot-17611?l=uxXUIs4rD_606218965 "MVA Course")
+
+## General Azure Training
+[Azure Essentials Training](https://www.microsoft.com/en-us/azureessentials) 
+
 
 # Find your Demo projects
 
@@ -62,9 +66,41 @@ https://catalog.azureiotsuite.com/ "Microsoft website")
 ![shake](/assets/images/projects-shake-shake-th.jpg)
 -->
 
+## Discover cool maker projects
+
+# Hackster
+https://www.hackster.io/windowsiot
+
+# Windows 10 IoT Core
+The operating system built for your Internet of Things
+http://windowsondevices.com
+
+What’s New for Windows 10 IoT Core
+https://developer.microsoft.com/en-us/windows/iot/docs/whatsnew
+
+# Microsoft IoT & AI Insider Labs
+Develop your IoT or AI project with help from Microsoft
+https://www.microsoftiotinsiderlabs.com/
+
+# Build a prototype
+https://developer.microsoft.com/en-us/windows/iot/getstarted/prototype/selectdevice
+
+# Find your IoT devices and starter kits]
+https://catalog.azureiotsuite.com/
+
+# MXChip IoT DevKit Preview
+An all-in-one IoT kit built for the cloud
+https://microsoft.github.io/azure-iot-developer-kit/
+
+# Azure IoT Hub get started tutorials
+https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-get-started
+
+# Azure IoT Learning manual
+https://opbuildstorageprod.blob.core.windows.net/output-pdf-files/en-us/Azure.azure-documents/live/iot-hub.pdf
 
 # Find your Tools
 [Visual Studio Code](https://code.visualstudio.com/)
+
 
 [Makecode](https://makecode.com)
 
